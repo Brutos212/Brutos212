@@ -1,7 +1,7 @@
 ### Olá! Sou Fabio.
 
 - 🔭 Hoje trabalho como motorista de aplicativo
-- 🌱 Estudante de programação. Hoje estudo Java
+- 🌱 Estudante de programação. Hoje estudando Java
 - 🤔 Procuro minha primeira oportunidade como desenvolvedor
 - 😄 Ele/Dele
 
@@ -10,14 +10,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brutos212&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutos212&layout=compact&langs_count=7&theme=dracula"/>
   
-  
 </div>
 
-<img align="right" src="fcf7fd0c619bb87706533079240915f3.gif" width="400px">
 
-           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-                    
+<div>
+  <img align="right" src="https://user-images.githubusercontent.com/41023583/185453511-669f871c-4c5a-4417-aa47-0f4277922f0d.gif"    width="400px">
+</div>         
+          
 
 
 ## Stacks
